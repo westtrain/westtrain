@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Welcome!&fontSize=90)
 
 
 ### Hi there 👋
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=90)
+-->
