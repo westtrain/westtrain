@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)
-
+<!--
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
-
+-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=westtrain)](https://solved.ac/westtrain/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/westtrain?theme=light,unicorn)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=westtrain&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/westtrain/github-readme-stats#gh-dark-mode-only)
