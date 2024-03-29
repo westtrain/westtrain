@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)
+<!--![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)-->
  🔭 I'm currently working as a server developer at Xingxing, a personal mobility service company. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=westtrain)](https://solved.ac/westtrain/)
